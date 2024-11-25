@@ -74,7 +74,7 @@
             " environment score: "+ std::to_string(environment_score) + 
             " settlement name: " + getSettlementName() + 
             " status: " + stat + "time left: " + std::to_string(timeLeft);
-            //amir levy
+            
         }
 
     
