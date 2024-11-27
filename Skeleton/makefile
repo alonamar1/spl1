@@ -18,4 +18,5 @@ run:
 
 clean:
 	@echo "Cleaning bin directory"
-	rm -f bin/*
+	rm -f bin/* 
+	//alon
